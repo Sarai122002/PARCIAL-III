@@ -1,0 +1,16 @@
+Packages Used in the Project.
+
+1-
+dotnet add package Microsoft.EntityFrameworkCore --version 5.0
+
+2-
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 5.0
+
+3-
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0
+
+4-
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 5.0
+
+5-
+dotnet add package Microsoft.AspNet.WebApi.Client --version 5.2.7
